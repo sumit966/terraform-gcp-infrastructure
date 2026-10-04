@@ -46,7 +46,7 @@ VPC Network - Subnet - Compute Engine VM (Ubuntu + Docker)
 
 Sumit Raj
 - Portfolio: https://sumit966-github-io.vercel.app
-- LinkedIn: https://linkedin.com/in/er-sumit-raj
+- LinkedIn: (https://www.linkedin.com/in/er-sumit-raj-/)
 - GitHub: https://github.com/sumit966
 - Email: info.sr0909@gmail.com
 
